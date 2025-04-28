@@ -1,51 +1,87 @@
-{
-    "id": 2,
-    "name": "kyle",
-    "email": "kyle23@example.com",
-    "phone": "09171234567",
-    "address": {
-        "street": "pioneer ave.",
-        "city": "mandaluyong",
-        "state": "PH",
-        "zip": 1550
+[
+    {
+        "id": 1,
+        "name": "ishi",
+        "email": "mamamo@gmail.com",
+        "phone": "09999999999",
+        "address": {
+            "street": "evangelista st.",
+            "city": "navotas",
+            "state": "PH",
+            "zip": 1480
+        },
+        "company": {
+            "name": "ado",
+            "position": "software engineer",
+            "department": "development"
+        }
     },
-    "company": {
-        "name": "techwave",
-        "position": "ui/ux designer",
-        "department": "design"
-    }
-},
-{
-    "id": 3,
-    "name": "lara",
-    "email": "lara_mendoza@example.com",
-    "phone": "09281231234",
-    "address": {
-        "street": "katipunan ave.",
-        "city": "quezon city",
-        "state": "PH",
-        "zip": 1108
+    {
+        "id": 2,
+        "name": "sara",
+        "email": "sara123@gmail.com",
+        "phone": "09123456789",
+        "address": {
+            "street": "quezon ave.",
+            "city": "quezon city",
+            "state": "PH",
+            "zip": 1100
+        },
+        "company": {
+            "name": "techworks",
+            "position": "project manager",
+            "department": "operations"
+        }
     },
-    "company": {
-        "name": "innovatech",
-        "position": "project manager",
-        "department": "operations"
-    }
-},
-{
-    "id": 4,
-    "name": "miguel",
-    "email": "migz_09@example.com",
-    "phone": "09081234567",
-    "address": {
-        "street": "taft ave.",
-        "city": "manila",
-        "state": "PH",
-        "zip": 1004
+    {
+        "id": 3,
+        "name": "john",
+        "email": "john.doe@example.com",
+        "phone": "09223334455",
+        "address": {
+            "street": "makati ave.",
+            "city": "makati",
+            "state": "PH",
+            "zip": 1200
+        },
+        "company": {
+            "name": "digitalsolutions",
+            "position": "UI/UX designer",
+            "department": "design"
+        }
     },
-    "company": {
-        "name": "softworks",
-        "position": "qa analyst",
-        "department": "quality assurance"
+    {
+        "id": 4,
+        "name": "emily",
+        "email": "emily_smith@outlook.com",
+        "phone": "09334445566",
+        "address": {
+            "street": "rodriguez street",
+            "city": "antipolo",
+            "state": "PH",
+            "zip": 1870
+        },
+        "company": {
+            "name": "greenenergy",
+            "position": "marketing manager",
+            "department": "marketing"
+        }
+    },
+    {
+        "id": 5,
+        "name": "michael",
+        "email": "michael.jones@gmail.com",
+        "phone": "09445566778",
+        "address": {
+            "street": "balagtas street",
+            "city": "bulacan",
+            "state": "PH",
+            "zip": 3000
+        },
+        "company": {
+            "name": "innovatech",
+            "position": "data scientist",
+            "department": "research"
+        }
     }
-}
+]
