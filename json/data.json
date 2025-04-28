@@ -1,0 +1,51 @@
+{
+    "id": 2,
+    "name": "kyle",
+    "email": "kyle23@example.com",
+    "phone": "09171234567",
+    "address": {
+        "street": "pioneer ave.",
+        "city": "mandaluyong",
+        "state": "PH",
+        "zip": 1550
+    },
+    "company": {
+        "name": "techwave",
+        "position": "ui/ux designer",
+        "department": "design"
+    }
+},
+{
+    "id": 3,
+    "name": "lara",
+    "email": "lara_mendoza@example.com",
+    "phone": "09281231234",
+    "address": {
+        "street": "katipunan ave.",
+        "city": "quezon city",
+        "state": "PH",
+        "zip": 1108
+    },
+    "company": {
+        "name": "innovatech",
+        "position": "project manager",
+        "department": "operations"
+    }
+},
+{
+    "id": 4,
+    "name": "miguel",
+    "email": "migz_09@example.com",
+    "phone": "09081234567",
+    "address": {
+        "street": "taft ave.",
+        "city": "manila",
+        "state": "PH",
+        "zip": 1004
+    },
+    "company": {
+        "name": "softworks",
+        "position": "qa analyst",
+        "department": "quality assurance"
+    }
+}
